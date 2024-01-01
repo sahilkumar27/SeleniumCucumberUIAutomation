@@ -1,0 +1,3 @@
+18:23:30.263 [main]  INFO  com.intuit.karate - Karate version: 1.5.0-SNAPSHOT
+18:23:41.639 [main]  INFO  com.intuit.karate - Karate version: 1.5.0-SNAPSHOT
+18:23:41.975 [main]  INFO  com.intuit.karate.Suite - backed up existing 'target/karate-reports' dir to: target/karate-reports_1703508821970
